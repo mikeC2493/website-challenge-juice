@@ -1,0 +1,44 @@
+h3{
+    text-align:center;
+    font-weight:600;
+    /*text-decoration:underline dashed #808080;*/
+    padding:.5em 0em .5em 0em;
+}
+
+.cardSpace{
+    margin-bottom:1em;
+}
+
+.navBlack{
+    background:black;
+}
+
+.nav-link.disabled{
+    color:white;
+}
+
+.navbar-nav{
+    margin:auto;
+}
+
+.nav-link{
+    color:black;
+}
+
+
+.headerRow{
+    border-top:2px dashed grey;
+    margin-top:1em;
+}
+
+.boosterList{
+    list-style-type:none;
+}
+
+.centerList{
+    text-align:center;
+}
+
+.cardFlex{
+    display:flex;
+}
